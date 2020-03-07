@@ -13,6 +13,6 @@ Output1 has the different week lists.
 
 Output2 has the compiled list of all weeks.
 
-Output3 has the initial playlist and the playlist after some songs are listned to.
+Output3 has the initial playlist and the playlist after some songs are listened to.
 
 Output4 has the history.
