@@ -1,0 +1,25 @@
+ Hassan Akbar
+ CISC 3130
+ Professor Chuang
+ HW 1
+
+List of errors and line they appear on
+File: input1.txt
+
+File: input1.txt
+Error Number: 1
+Error on Line Number : 3
+1,"Taki Taki (with Selena Gomez, Ozuna & Cardi B)","DJ Snake",5932448,https://open.spotify.com/track/4w8niZpiMy6qz1mntFA5uM
+
+File: input1.txt
+Error Number: 2
+Error on Line Number : 57
+55,"Never Recover (Lil Baby & Gunna, Drake)","Lil Baby",1454013,https://open.spotify.com/track/6wWaVoUOzLQJHd3bWAUpdZ
+
+File: input1.txt
+Error Number: 3
+Error on Line Number : 176
+174,"BIG BANK (feat. 2 Chainz, Big Sean, Nicki Minaj)",YG,728379,https://open.spotify.com/track/0ZNrc4kNeQYD9koZ3KvCsy
+
+
+Number of Errors in file input1.txt : 3

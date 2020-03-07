@@ -1,0 +1,30 @@
+ Hassan Akbar
+ CISC 3130
+ Professor Chuang
+ HW 1
+
+List of errors and line they appear on
+File: input4.txt
+
+File: input4.txt
+Error Number: 1
+Error on Line Number : 70
+68,"Yah Yah (feat. Royce Da 5'9"", Black Thought, Q-Tip & Denaun)",Eminem,3526191,https://open.spotify.com/track/5mZXWEH2eh8zMZGCxT5aW0
+
+File: input4.txt
+Error Number: 2
+Error on Line Number : 78
+76,"10,000 Hours (with Justin Bieber)","Dan + Shay",3158397,https://open.spotify.com/track/2wrJq5XKLnmhRXHIAf9xBa
+
+File: input4.txt
+Error Number: 3
+Error on Line Number : 90
+88,"I Will (feat. KXNG Crooked, Royce Da 5'9"" & Joell Ortiz)",Eminem,2931349,https://open.spotify.com/track/3CJbxqRQ0JNCqboWDNUUeX
+
+File: input4.txt
+Error Number: 4
+Error on Line Number : 139
+137,EARFQUAKE,"Tyler, The Creator",2139004,https://open.spotify.com/track/5hVghJ4KaYES3BFUATCYn0
+
+
+Number of Errors in file input4.txt : 4

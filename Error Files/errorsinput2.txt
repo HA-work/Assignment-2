@@ -1,0 +1,35 @@
+ Hassan Akbar
+ CISC 3130
+ Professor Chuang
+ HW 1
+
+List of errors and line they appear on
+File: input2.txt
+
+File: input2.txt
+Error Number: 1
+Error on Line Number : 69
+67,"10,000 Hours (with Justin Bieber)","Dan + Shay",1347006,https://open.spotify.com/track/2wrJq5XKLnmhRXHIAf9xBa
+
+File: input2.txt
+Error Number: 2
+Error on Line Number : 109
+107,"Alone, Pt. II","Alan Walker",1036290,https://open.spotify.com/track/0bMbDctzMmTyK2j74j3nF3
+
+File: input2.txt
+Error Number: 3
+Error on Line Number : 117
+115,"Numbers (feat. Roddy Ricch, Gunna and London On Da Track)","A Boogie Wit da Hoodie",963538,https://open.spotify.com/track/733c1CWmIGymoQXdp7Us88
+
+File: input2.txt
+Error Number: 4
+Error on Line Number : 167
+165,"thank u, next","Ariana Grande",767512,https://open.spotify.com/track/3e9HZxeyfWwjeyPAMmWSSQ
+
+File: input2.txt
+Error Number: 5
+Error on Line Number : 176
+174,"Life Is Good (feat. Drake, DaBaby & Lil Baby) - Remix",Future,750640,https://open.spotify.com/track/4iiWcajF1fEUpwcUewc464
+
+
+Number of Errors in file input2.txt : 5
